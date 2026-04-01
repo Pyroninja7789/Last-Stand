@@ -72,3 +72,4 @@ Game Code & Assets:
     Generating code examples, with no relevance to this project to be used for concepts understamding
     Generating code example snippets to be reviewed by me, go through 2 test projects before getting implimneted into the main file.
     All AI generated code that i used was made sure that it generated sources for ideas it made (eg: stack overflow)
+    AI generated code makes up <10% of the total code
