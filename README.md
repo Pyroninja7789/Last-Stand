@@ -1,7 +1,6 @@
 # Last-Stand
 
 This contains the .py, sprites and other critical files.
-
 Also contains older versions in Alpha
 Currently on Beta 1.0
 
