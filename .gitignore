@@ -1,0 +1,7 @@
+# Large archives and binary bundles (prevent >100MB accidental commits)
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.iso
