@@ -7,7 +7,6 @@ import random
 import sys
 import time
 import threading
-from fastapi import background
 from ctypes import windll
 from tkinter import *
 from pygame.locals import (
@@ -397,7 +396,9 @@ def dificulty(BASE_DIR):
                 game1(BASE_DIR)
             if event.type == KEYDOWN and pressed_keys[K_RETURN] and menu_in_use == 2: #go back
                 menu(BASE_DIR)
-            return menu_in_use, sprite_timer, background_image1, enemy_multiplier
+            return menu_in_use, sprite_timer, background_image1, 
+            
+            
 
     Menu1 = Menu()
 
