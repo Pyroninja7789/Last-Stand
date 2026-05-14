@@ -51,6 +51,7 @@ Dependencies:
   Pygame 2.6.1
   Xrandir 1.5.3
   fastapi 0.136.1
+  pyautogui 0.9.54
   
   All files inside the folder named "5323"
   
